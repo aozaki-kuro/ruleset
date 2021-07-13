@@ -1,6 +1,5 @@
 payload:
-  # > Steam
-  ### 锁区商店
+  # > JPN_Only
   - DOMAIN-SUFFIX,mora.jp
   - DOMAIN-SUFFIX,ototoy.jp
   - DOMAIN-SUFFIX,dmm.co.jp
@@ -8,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,rakuten.co.jp
   - DOMAIN-SUFFIX,sanrio.co.jp
   - DOMAIN-SUFFIX,amazon.co.jp
-  ### 锁区流媒体
   - DOMAIN-SUFFIX,llnwd.net
   - DOMAIN-SUFFIX,uniqueradio.jp
   - DOMAIN-SUFFIX,joqr.co.jp
@@ -17,6 +15,5 @@ payload:
   - DOMAIN-KEYWORD,NHK
   - DOMAIN-KEYWORD,asahi
   - DOMAIN-KEYWORD,abema
-  ### 游戏或网站加速
   - DOMAIN-KEYWORD,alchemystars
   - DOMAIN-SUFFIX,skeb.jp
