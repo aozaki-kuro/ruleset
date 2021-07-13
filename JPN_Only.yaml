@@ -20,3 +20,5 @@ payload:
   ### 游戏或网站加速
   - DOMAIN-KEYWORD,alchemystars
   - DOMAIN-SUFFIX,skeb.jp
+  ### Amazon Lightsail Tokyo
+  - IP-CIDR,35.73.212.185/32
