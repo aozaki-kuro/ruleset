@@ -1,7 +1,7 @@
 payload:
   # > US_Only
   ### 强制指定节点
-  - DOMAIN-SUFFIX,yande.re
+  - '+.yande.re'
   ### 服务器与存储相关分流
-  - DOMAIN-SUFFIX,backblaze.com
-  - DOMAIN-SUFFIX,backblazeb2.com
+  - '+.backblaze.com'
+  - '+.backblazeb2.com'
