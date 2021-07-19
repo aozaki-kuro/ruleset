@@ -1,10 +1,13 @@
 payload:
   # > JPN_Media
   ### 流媒体分流
-  - DOMAIN-KEYWORD,spwn
-  - DOMAIN-KEYWORD,nico
+  - '+.spwn.jp'
+  - '+.nicovideo.jp'
+  - '+.dmc.nico'
+  - '+.nimg.jp'
   ### Pixiv Inc.
-  - DOMAIN-KEYWORD,pixiv
-  - DOMAIN-SUFFIX,pximg.net
-  - DOMAIN-SUFFIX,fanbox.cc
-  - DOMAIN-SUFFIX,booth.pm
+  - '+.pixiv.net'
+  - '+.pixivsketch.net'
+  - '+.pximg.net'
+  - '+.fanbox.cc'
+  - '+.booth.pm'
