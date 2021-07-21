@@ -2,6 +2,7 @@ payload:
   # > JPN_Only
   ### 锁区流媒体
   - DOMAIN-KEYWORD,NHK
+  - DOMAIN-KEYWORD,spwn
   - DOMAIN-KEYWORD,asahi
   - DOMAIN-KEYWORD,abema
   ### Amazon Lightsail Tokyo
