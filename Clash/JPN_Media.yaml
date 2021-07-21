@@ -1,5 +1,13 @@
 payload:
   # > JPN_Media
+  ### 锁区商店
+  - '+.mora.jp'
+  - '+.ototoy.jp'
+  - '+.dmm.co.jp'
+  - '+.dlsite.com'
+  - '+.rakuten.co.jp'
+  - '+.sanrio.co.jp'
+  - '+.amazon.co.jp'
   ### 流媒体分流
   - '+.spwn.jp'
   - '+.nicovideo.jp'
@@ -11,3 +19,13 @@ payload:
   - '+.pximg.net'
   - '+.fanbox.cc'
   - '+.booth.pm'
+  ### Radio
+  - '+.llnwd.net'
+  - '+.uniqueradio.jp'
+  - '+.joqr.co.jp'
+  - '+.radiko.jp'
+  - '+.smartstream.ne.jp'
+  ### skeb
+  - '+.skeb.jp'
+  - '+.skeb.imgix.net'
+  - '+.skeb-avatar.imgix.net'
