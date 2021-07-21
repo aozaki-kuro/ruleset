@@ -9,7 +9,6 @@ payload:
   - '+.sanrio.co.jp'
   - '+.amazon.co.jp'
   ### 流媒体分流
-  - '+.spwn.jp'
   - '+.nicovideo.jp'
   - '+.dmc.nico'
   - '+.nimg.jp'
