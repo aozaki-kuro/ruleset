@@ -1,6 +1,7 @@
 payload:
   # > JPN_Only
   ### 锁区流媒体
+  - DOMAIN-SUFFIX,mora.jp
   - DOMAIN-KEYWORD,NHK
   - DOMAIN-KEYWORD,spwn
   - DOMAIN-KEYWORD,asahi
