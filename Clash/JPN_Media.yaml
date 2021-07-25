@@ -15,8 +15,6 @@ payload:
   - DOMAIN-KEYWORD,abema
   ### Tver
   - DOMAIN-SUFFIX,tver.jp
-  - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,yahoo.co.jp
   - DOMAIN-SUFFIX,brightcove.com
   ### Pixiv Inc.
   - DOMAIN-SUFFIX,pixiv.net
