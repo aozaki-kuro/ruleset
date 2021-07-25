@@ -1,29 +1,32 @@
 payload:
   # > JPN_Media
   ### 锁区商店
-  - '+.ototoy.jp'
-  - '+.dmm.co.jp'
-  - '+.dlsite.com'
-  - '+.rakuten.co.jp'
-  - '+.sanrio.co.jp'
-  - '+.amazon.co.jp'
+  - DOMAIN-SUFFIX,ototoy.jp
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,sanrio.co.jp
+  - DOMAIN-SUFFIX,amazon.co.jp
   ### 流媒体分流
-  - '+.nicovideo.jp'
-  - '+.dmc.nico'
-  - '+.nimg.jp'
+  - DOMAIN-KEYWORD,nico
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-KEYWORD,NHK
+  - DOMAIN-KEYWORD,spwn
+  - DOMAIN-KEYWORD,abema
+  - DOMAIN-KEYWORD,tver
   ### Pixiv Inc.
-  - '+.pixiv.net'
-  - '+.pixivsketch.net'
-  - '+.pximg.net'
-  - '+.fanbox.cc'
-  - '+.booth.pm'
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pixivsketch.net
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,booth.pm
   ### Radio
-  - '+.llnwd.net'
-  - '+.uniqueradio.jp'
-  - '+.joqr.co.jp'
-  - '+.radiko.jp'
-  - '+.smartstream.ne.jp'
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,uniqueradio.jp
+  - DOMAIN-SUFFIX,joqr.co.jp
+  - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,smartstream.ne.jp
   ### skeb
-  - '+.skeb.jp'
-  - '+.skeb.imgix.net'
-  - '+.skeb-avatar.imgix.net'
+  - DOMAIN-KEYWORD,skeb.jp
+  ### Amazon Lightsail Tokyo
+  - IP-CIDR,35.73.212.185/32
