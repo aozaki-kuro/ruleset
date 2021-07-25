@@ -16,7 +16,7 @@ def check(branch):
     print gitmd5
     os.system('python jsdelivr_dl.py https://github.com/aozaki-kuro/ruleset ' + branch + ' ' + branch)
     os.system('cd ' + branch)
-    branchmd5 = commands.getoutput('cat *.acl |md5sum')
+    branchmd5 = commands.getoutput('cat *.yaml |md5sum')
     print branchmd5
     os.system('cd ' + branch + '&& rm -rf '+ branch)
     return (gitmd5==branchmd5)

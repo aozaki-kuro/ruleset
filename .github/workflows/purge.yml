@@ -26,7 +26,7 @@ jobs:
 
     - name: Get Script
       run: |
-        wget 
+        wget https://raw.githubusercontent.com/aozaki-kuro/ruleset/main/.github/workflows/purge.py
         wget 
         pip install requests
         chmod +x purge.py jsdelivr_dl.py
