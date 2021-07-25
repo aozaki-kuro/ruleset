@@ -1,0 +1,8 @@
+payload:
+  # > JPN_Pixiv
+  ### Pixiv Inc.
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pixivsketch.net
+  - DOMAIN-SUFFIX,pximg.net
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,booth.pm
