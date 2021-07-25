@@ -1,0 +1,6 @@
+payload:
+  # > JPN_Media_Misc
+  ### 流媒体分流（关键词）
+  - DOMAIN-KEYWORD,NHK
+  - DOMAIN-KEYWORD,spwn
+  - DOMAIN-KEYWORD,abema

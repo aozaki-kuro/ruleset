@@ -1,7 +1,0 @@
-payload:
-  # > US_Only
-  ### 强制指定节点
-  - '+.yande.re'
-  ### 服务器与存储相关分流
-  - '+.backblaze.com'
-  - '+.backblazeb2.com'

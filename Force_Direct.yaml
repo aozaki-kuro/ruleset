@@ -1,7 +1,0 @@
-payload:
-  # > Force_Direct
-  ### 强制直连
-  - '+.sharepoint.com'
-  - '+.uptodate.com'
-  - '+.tenso.com'
-  - '+.time.is'
