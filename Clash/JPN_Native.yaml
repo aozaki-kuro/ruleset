@@ -1,0 +1,6 @@
+payload:
+  # > JPN_Only
+  ### 需家宽IP的锁区流媒体
+  - DOMAIN-SUFFIX,mora.jp
+  - DOMAIN-KEYWORD,asahi
+  
