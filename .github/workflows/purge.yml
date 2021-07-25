@@ -19,10 +19,10 @@ jobs:
         tar -cvf git.tar *.yaml
         echo "::set-env name=GITMD5::`md5sum git.tar | awk '{ print $1 }'`"
         rm -rf git.tar
-    - name: Set up Python 2.7
-      uses: actions/setup-python@v1
+    - name: Set up Python 2.2.2
+      uses: actions/setup-python@v2.2.2
       with:
-        python-version: 2.7
+        python-version: 2.2.2
 
     - name: Get Script
       run: |
