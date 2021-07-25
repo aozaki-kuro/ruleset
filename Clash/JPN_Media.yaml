@@ -8,26 +8,9 @@ payload:
   - DOMAIN-SUFFIX,sanrio.co.jp
   - DOMAIN-SUFFIX,amazon.co.jp
   ### 流媒体分流
-  - DOMAIN-KEYWORD,nico
-  - DOMAIN-SUFFIX,nimg.jp
   - DOMAIN-KEYWORD,NHK
   - DOMAIN-KEYWORD,spwn
   - DOMAIN-KEYWORD,abema
-  ### Tver
-  - DOMAIN-SUFFIX,tver.jp
-  - DOMAIN-SUFFIX,brightcove.com
-  ### Pixiv Inc.
-  - DOMAIN-SUFFIX,pixiv.net
-  - DOMAIN-SUFFIX,pixivsketch.net
-  - DOMAIN-SUFFIX,pximg.net
-  - DOMAIN-SUFFIX,fanbox.cc
-  - DOMAIN-SUFFIX,booth.pm
-  ### Radio
-  - DOMAIN-SUFFIX,llnwd.net
-  - DOMAIN-SUFFIX,uniqueradio.jp
-  - DOMAIN-SUFFIX,joqr.co.jp
-  - DOMAIN-SUFFIX,radiko.jp
-  - DOMAIN-SUFFIX,smartstream.ne.jp
   ### skeb
   - DOMAIN-KEYWORD,skeb.jp
   ### Amazon Lightsail Tokyo
