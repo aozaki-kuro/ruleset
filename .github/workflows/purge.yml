@@ -16,7 +16,7 @@ jobs:
 
     - name: Tar and Hash
       run: |
-        tar -cvf git.tar *.acl
+        tar -cvf git.tar *.yaml
         echo "::set-env name=GITMD5::`md5sum git.tar | awk '{ print $1 }'`"
         rm -rf git.tar
     - name: Set up Python 2.7
