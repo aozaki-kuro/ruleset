@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,sanrio.co.jp
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-KEYWORD,melonbooks
+  - DOMAIN-SUFFIX,capcom-netcatcher.com
   ### skeb
   - DOMAIN-KEYWORD,skeb.jp
   ### Amazon Lightsail Tokyo
