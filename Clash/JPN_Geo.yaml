@@ -8,7 +8,9 @@ payload:
   - DOMAIN-SUFFIX,sanrio.co.jp
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-KEYWORD,melonbooks
+  ### Capcom
   - DOMAIN-SUFFIX,capcom-netcatcher.com
+  - IP-CIDR,210.168.128.0/18
   ### skeb
   - DOMAIN-KEYWORD,skeb.jp
   ### Amazon Lightsail Tokyo
