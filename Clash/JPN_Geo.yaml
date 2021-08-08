@@ -13,5 +13,3 @@ payload:
   - IP-CIDR,210.168.181.48/29
   ### skeb
   - DOMAIN-KEYWORD,skeb.jp
-  ### Amazon Lightsail Tokyo
-  - IP-CIDR,35.73.212.185/32
