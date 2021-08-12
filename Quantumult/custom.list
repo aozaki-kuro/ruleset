@@ -2,20 +2,24 @@
 host-keyword, sharepoint, 🇦🇷备用节点
 host-keyword, mapbox, 🍎 苹果服务
 host-keyword,jsdelivr,direct
+
 ;日本分流
-host-keyword, skeb.jp, 🇯🇵️日本
+host-suffix, skeb.jp, 🇯🇵️日本
 host-suffix, booth.pm, 🇯🇵️日本
 host-suffix, pximg.net, 🇯🇵️日本
 host-suffix, pixiv.net, 🇯🇵️日本
+host-suffix, fantia.jp, 🇯🇵️日本
 host-suffix, mora.jp, 🇯🇵️日本
 host-suffix, booth.pm, 🇯🇵️日本
 host-keyword, asahi, 🇯🇵️日本
 host-keyword, nico, 🇯🇵️日本
 host-keyword, spwn, 🇯🇵️日本
+
 ;锁区游戏
 host-suffix, d4dj-groovy-mix.com, 🇯🇵️日本
 host-suffix, d4dj-donuts.net, 🇯🇵️日本
 host-keyword, alchemystars, 🇯🇵️日本
+
 ;拒绝运营商
 host-keyword, opencloud.wostore.cn, reject
 host-keyword, cmpassport.com, reject
