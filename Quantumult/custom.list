@@ -18,9 +18,3 @@ host-keyword, spwn, 🇯🇵️日本
 ;锁区游戏
 host-suffix, d4dj-groovy-mix.com, 🇯🇵️日本
 host-suffix, d4dj-donuts.net, 🇯🇵️日本
-host-keyword, alchemystars, 🇯🇵️日本
-
-;拒绝运营商
-host-keyword, opencloud.wostore.cn, reject
-host-keyword, cmpassport.com, reject
-host-keyword, id6.me, reject
