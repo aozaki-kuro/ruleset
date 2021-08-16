@@ -1,0 +1,15 @@
+;日本分流
+host-suffix, skeb.jp
+host-suffix, booth.pm
+host-suffix, pximg.net
+host-suffix, pixiv.net
+host-suffix, fantia.jp
+host-suffix, mora.jp
+host-suffix, booth.pm
+host-keyword, asahi
+host-keyword, nico
+host-keyword, spwn
+
+;锁区游戏
+host-suffix, d4dj-groovy-mix.com
+host-suffix, d4dj-donuts.net
