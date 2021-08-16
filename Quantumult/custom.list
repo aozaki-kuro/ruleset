@@ -1,8 +1,3 @@
-;强制分流
-host-keyword, sharepoint, 🇦🇷备用节点
-host-keyword, mapbox, 🍎 苹果服务
-host-keyword,jsdelivr,direct
-
 ;日本分流
 host-suffix, skeb.jp, 🇯🇵️日本
 host-suffix, booth.pm, 🇯🇵️日本
