@@ -1,3 +1,6 @@
+;分流
+host-suffix, sharepoint.com, 🇦🇷备用节点
+
 ;日本分流
 host-suffix, skeb.jp, 🇯🇵️日本
 host-suffix, booth.pm, 🇯🇵️日本
@@ -13,7 +16,3 @@ host-keyword, spwn, 🇯🇵️日本
 ;锁区游戏
 host-suffix, d4dj-groovy-mix.com, 🇯🇵️日本
 host-suffix, d4dj-donuts.net, 🇯🇵️日本
-
-;discord
-host-suffix, discord.com, 🇯🇵️日本
-host-keyword, discord, 🇯🇵️日本
