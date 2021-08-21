@@ -3,6 +3,7 @@ payload:
   ### 需家宽IP的锁区流媒体
   - DOMAIN-SUFFIX,mora.jp
   - DOMAIN-KEYWORD,asahi
+  - DOMAIN-SUFFIX,tenso.com
   ### Amazon Lightsail Tokyo
   - IP-CIDR,3.114.96.96/32
   
