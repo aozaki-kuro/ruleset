@@ -3,5 +3,5 @@ payload:
   ### 强制直连
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,uptodate.com
-  - DOMAIN-SUFFIX,tenso.com
+  #- DOMAIN-SUFFIX,tenso.com
   - DOMAIN-SUFFIX,time.is
