@@ -13,3 +13,7 @@ host-keyword, spwn, PROXY
 ;锁区游戏
 host-suffix, d4dj-groovy-mix.com, PROXY
 host-suffix, d4dj-donuts.net, PROXY
+
+;连接加速
+host-suffix, amazon.co.jp, PROXY
+host-suffix, japanpost.jp, PROXY
