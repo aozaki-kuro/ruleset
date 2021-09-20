@@ -7,5 +7,3 @@ payload:
   - DOMAIN-SUFFIX,time.is
   ### 应用程序直连
   - PROCESS-NAME,Resilio Sync.exe
-  - PROCESS-NAME,QQ.exe
-  - PROCESS-NAME,QQApp.exe
