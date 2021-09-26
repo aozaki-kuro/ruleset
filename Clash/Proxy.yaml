@@ -7,8 +7,5 @@ payload:
   - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,onedrive.live.com
   ### 博客相关
-  - DOMAIN-SUFFIX,disq.us
-  - DOMAIN-SUFFIX,disquscdn.com
-  - DOMAIN-SUFFIX,disqus.com
   - DOMAIN-SUFFIX,syndication.twitter.com
   - DOMAIN-SUFFIX,platform.twitter.com
