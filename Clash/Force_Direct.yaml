@@ -1,10 +1,7 @@
 payload:
   # > Force_Direct
   ### 强制直连
-  #- DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,uptodate.com
-  #- DOMAIN-SUFFIX,tenso.com
   - DOMAIN-SUFFIX,time.is
-  #- DOMAIN-SUFFIX,yacd.haishan.me
   ### 应用程序直连
   - PROCESS-NAME,Resilio Sync.exe
