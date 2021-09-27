@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,onedrive.live.com
+  - IP-CIDR,1.1.1.1/32
+  - IP-CIDR,1.0.0.1/32
   ### 博客相关
   - DOMAIN-SUFFIX,syndication.twitter.com
   - DOMAIN-SUFFIX,platform.twitter.com
