@@ -5,3 +5,6 @@ payload:
   - DOMAIN-SUFFIX,time.is
   ### 应用程序直连
   - PROCESS-NAME,Resilio Sync.exe
+  ### BT
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,torrent
