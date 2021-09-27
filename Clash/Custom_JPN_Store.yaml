@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-KEYWORD,melonbooks
   - DOMAIN-SUFFIX,booth.pm
+  - DOMAIN-SUFFIX,gamers.co.jp
+  - DOMAIN-SUFFIX,animate-onlineshop.jp
   ### Capcom
   - DOMAIN-SUFFIX,capcom-netcatcher.com
   - IP-CIDR,210.168.181.48/29
