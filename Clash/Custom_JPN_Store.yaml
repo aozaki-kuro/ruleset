@@ -1,5 +1,5 @@
 payload:
-  # > JPN_Geo
+  # > JPN_Store
   ### 锁区商店
   - DOMAIN-SUFFIX,ototoy.jp
   - DOMAIN-SUFFIX,dmm.co.jp
@@ -11,6 +11,9 @@ payload:
   - DOMAIN-SUFFIX,booth.pm
   - DOMAIN-SUFFIX,gamers.co.jp
   - DOMAIN-SUFFIX,animate-onlineshop.jp
+  - DOMAIN-SUFFIX,tower.jp
+  - DOMAIN-SUFFIX,toranoana.jp
+  - DOMAIN-SUFFIX,hmv.co.jp
   ### Capcom
   - DOMAIN-SUFFIX,capcom-netcatcher.com
   - IP-CIDR,210.168.181.48/29
