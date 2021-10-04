@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,tower.jp
   - DOMAIN-SUFFIX,toranoana.jp
   - DOMAIN-SUFFIX,hmv.co.jp
+  - DOMAIN-SUFFIX,items-store.jp
   ### Capcom
   - DOMAIN-SUFFIX,capcom-netcatcher.com
   - IP-CIDR,210.168.181.48/29
