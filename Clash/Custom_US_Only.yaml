@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,nih.gov
   - DOMAIN-KEYWORD,pubmed
+  - DOMAIN-SUFFIX,jacc.org
+  - DOMAIN-SUFFIX,nejm.org
+  - DOMAIN-SUFFIX,ahajournals.org
   ### 服务器与存储相关分流
   - DOMAIN-SUFFIX,backblaze.com
   - DOMAIN-SUFFIX,backblazeb2.com
