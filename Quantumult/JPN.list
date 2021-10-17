@@ -9,6 +9,7 @@ host-suffix, booth.pm, PROXY
 host-keyword, asahi, PROXY
 host-keyword, nico, PROXY
 host-keyword, spwn, PROXY
+host-keyword, fanbox, PROXY
 
 ;锁区游戏
 host-suffix, d4dj-groovy-mix.com, PROXY
