@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,uptodate.com
   - DOMAIN-SUFFIX,time.is
   - DOMAIN-SUFFIX,yacd.haishan.me
+  ### 时间服务
+  - DOMAIN-SUFFIX,time.apple.com
+  - DOMAIN-SUFFIX,time.asia.apple.com
   ### 应用程序直连
   - PROCESS-NAME,Resilio Sync.exe
   ### BT
