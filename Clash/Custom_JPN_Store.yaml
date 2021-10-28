@@ -20,6 +20,7 @@ payload:
   ### Hololive & Nijisanji
   - DOMAIN-SUFFIX,hololivepro.com
   - DOMAIN-SUFFIX,nijisanji.jp
+  - DOMAIN-SUFFIX,anycolorid.com
   ### Capcom
   - DOMAIN-SUFFIX,capcom-netcatcher.com
   - IP-CIDR,210.168.181.48/29
