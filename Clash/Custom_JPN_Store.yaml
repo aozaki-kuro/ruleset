@@ -17,8 +17,9 @@ payload:
   ### Bushiroad
   - DOMAIN-SUFFIX,bushiroad-store.com
   - DOMAIN-SUFFIX,bushiroad.com
-  ### Hololive
+  ### Hololive & Nijisanji
   - DOMAIN-SUFFIX,hololivepro.com
+  - DOMAIN-SUFFIX,nijisanji.jp
   ### Capcom
   - DOMAIN-SUFFIX,capcom-netcatcher.com
   - IP-CIDR,210.168.181.48/29
