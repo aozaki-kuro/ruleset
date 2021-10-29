@@ -30,3 +30,4 @@ payload:
   - DOMAIN-SUFFIX,skeb.imgix.net
   ### Other
   - DOMAIN-SUFFIX,sanrio.co.jp
+  - DOMAIN-SUFFIX,ec-project.jp
