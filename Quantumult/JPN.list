@@ -1,15 +1,10 @@
 ;日本分流
 host-suffix, skeb.jp, PROXY
-host-suffix, booth.pm, PROXY
-host-suffix, pximg.net, PROXY
-host-suffix, pixiv.net, PROXY
 host-suffix, fantia.jp, PROXY
 host-suffix, mora.jp, PROXY
-host-suffix, booth.pm, PROXY
 host-keyword, asahi, PROXY
 host-keyword, nico, PROXY
 host-keyword, spwn, PROXY
-host-keyword, fanbox, PROXY
 
 ;锁区游戏
 host-suffix, d4dj-groovy-mix.com, PROXY
