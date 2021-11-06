@@ -1,0 +1,5 @@
+;Pixiv Inc.
+host-keyword, fanbox, PROXY
+host-suffix, booth.pm, PROXY
+host-suffix, pximg.net, PROXY
+host-suffix, pixiv.net, PROXY
