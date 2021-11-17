@@ -12,3 +12,7 @@ payload:
   ### BT
   - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,torrent
+  ### NTP
+  - DOMAIN-SUFFIX,ntp.aliyun.com
+  - DOMAIN-SUFFIX,asia.pool.ntp.org
+  - DOMAIN-SUFFIX,time.asia.apple.com
