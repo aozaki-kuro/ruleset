@@ -3,7 +3,7 @@ payload:
   ### 强制直连
   - DOMAIN-SUFFIX,uptodate.com
   - DOMAIN-SUFFIX,time.is
-  - DOMAIN-SUFFIX,yacd.haishan.me
+  - DOMAIN-SUFFIX,safebrowsing.googleapis.com,DIRECT
   ### 时间服务
   - DOMAIN-SUFFIX,time.apple.com
   - DOMAIN-SUFFIX,time.asia.apple.com
