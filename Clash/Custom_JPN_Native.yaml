@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,abema
   - DOMAIN-KEYWORD,NHK
   - DOMAIN-SUFFIX,tenso.com
+  ### L-tike
+  - DOMAIN-SUFFIX,l-tike.com
   ### Amazon Lightsail Tokyo
   - IP-CIDR,3.114.96.96/32
-  
