@@ -1,0 +1,5 @@
+payload:
+  # > Proxy_iTunes
+  ### 强制走节点
+  - DOMAIN-KEYWORD,itunes.apple.com
+  - DOMAIN-SUFFIX,mzstatic.com
