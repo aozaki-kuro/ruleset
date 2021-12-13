@@ -1,12 +1,65 @@
 payload:
   # > JPN_Only
   ### 需家宽IP的锁区流媒体
-  - DOMAIN-SUFFIX,mora.jp
   - DOMAIN-KEYWORD,asahi
   - DOMAIN-KEYWORD,abema
   - DOMAIN-KEYWORD,NHK
-  - DOMAIN-SUFFIX,tenso.com
+
+  ### 音乐商店
+  - DOMAIN-SUFFIX,mora.jp
+  - DOMAIN-SUFFIX,ototoy.jp
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-KEYWORD,melonbooks
+  - DOMAIN-SUFFIX,booth.pm
+  - DOMAIN-SUFFIX,gamers.co.jp
+  - DOMAIN-SUFFIX,animate-onlineshop.jp
+  - DOMAIN-SUFFIX,tower.jp
+  - DOMAIN-SUFFIX,toranoana.jp
+  - DOMAIN-SUFFIX,hmv.co.jp
+  - DOMAIN-SUFFIX,items-store.jp
+
   ### L-tike
   - DOMAIN-SUFFIX,l-tike.com
+
+  ### Bushiroad
+  - DOMAIN-SUFFIX,bushiroad-store.com
+  - DOMAIN-SUFFIX,bushiroad.com
+
+  ### Hololive & Nijisanji
+  - DOMAIN-SUFFIX,hololivepro.com
+  - DOMAIN-SUFFIX,nijisanji.jp
+  - DOMAIN-SUFFIX,anycolorid.com
+
+  ### Capcom
+  - DOMAIN-SUFFIX,capcom-netcatcher.com
+  - IP-CIDR,210.168.181.48/29
+
+  ### skeb
+  - DOMAIN-SUFFIX,skeb.jp
+  - DOMAIN-SUFFIX,skeb-avatar.imgix.net
+  - DOMAIN-SUFFIX,skeb.imgix.net
+
+  ## 超A&G！+
+  - DOMAIN-SUFFIX,llnwd.net
+  - DOMAIN-SUFFIX,uniqueradio.jp
+  - DOMAIN-SUFFIX,joqr.co.jp
+
+  ## Radiko
+  - DOMAIN-SUFFIX,radiko.jp
+  - DOMAIN-SUFFIX,smartstream.ne.jp
+
+  ## Hibiki
+  - DOMAIN-SUFFIX,hibiki-radio.jp
+
+  ### Other
+  - DOMAIN-SUFFIX,sanrio.co.jp
+  - DOMAIN-SUFFIX,ec-project.jp
+  - DOMAIN-SUFFIX,chugai-contents.jp
+  - DOMAIN-SUFFIX,chugaionline.xyz
+  - DOMAIN-SUFFIX,tenso.com
+
   ### Amazon Lightsail Tokyo
   - IP-CIDR,3.114.96.96/32
