@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,anycolorid.com
 DOMAIN-SUFFIX,capcom-netcatcher.com
 IP-CIDR,210.168.181.48/29
 
+### 其他商店
+DOMAIN-SUFFIX,converse-tokyo.jp
+
 ### skeb
 DOMAIN-SUFFIX,skeb.jp
 DOMAIN-SUFFIX,skeb-avatar.imgix.net
