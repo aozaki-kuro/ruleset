@@ -65,3 +65,4 @@ DOMAIN-SUFFIX,tenso.com
 
 ### Amazon Lightsail Tokyo
 IP-CIDR,3.114.96.96/32
+IP-CIDR,140.238.58.148/32
