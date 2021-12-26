@@ -38,6 +38,8 @@ IP-CIDR,210.168.181.48/29
 
 ### 其他商店
 DOMAIN-SUFFIX,converse-tokyo.jp
+DOMAIN-SUFFIX,chugai-contents.jp
+DOMAIN-SUFFIX,makeshop.jp
 
 ### skeb
 DOMAIN-KEYWORD,skeb
