@@ -1,0 +1,7 @@
+# > Home
+### 回家
+IP-CIDR,10.0.0.1/32,🏠 回家节点,no-resolve
+IP-CIDR,10.0.0.144/32,🏠 回家节点,no-resolve
+### Plex
+IP-CIDR,155.248.163.141/32,🇯🇵 日本实验 IEPL 1,no-resolve
+DOMAIN-KEYWORD,155-248-163-141,🇯🇵 日本实验 IEPL 1
