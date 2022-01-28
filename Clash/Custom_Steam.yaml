@@ -1,5 +1,0 @@
-payload:
-  # > Custom_Steam
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-KEYWORD,steampipe
-  - DOMAIN-KEYWORD,steamcdn
