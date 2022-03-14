@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,time.asia.apple.com
 ### 应用程序直连
 PROCESS-NAME,Resilio Sync
-PROCESS-NAME,syncthing
-PROCESS-NAME,Syncthing
 ### BT
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,torrent
