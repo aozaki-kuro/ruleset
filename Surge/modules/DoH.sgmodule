@@ -23,8 +23,8 @@ melogin.cn = server:syslib // MERCURY Router
 falogin.cn = server:syslib // FAST Router
 
 # > Alphabet
-*.youtube = server:https://dns.google/dns-query // Youtube sites
-*.youtube.com = server:https://dns.google/dns-query // Youtube
-*.ytimg.com = server:https://dns.google/dns-query // Youtube 图片
-*.googlevideo.com = server:https://dns.google/dns-query // Youtube Video
-*.gvt?.com = server:https://dns.google/dns-query // Google Video Thumbnails
+*.youtube = server:https://jp-nrt.doh.sb/dns-query // Youtube sites
+*.youtube.com = server:https://jp-nrt.doh.sb/dns-query // Youtube
+*.ytimg.com = server:https://jp-nrt.doh.sb/dns-query // Youtube 图片
+*.googlevideo.com = server:https://jp-nrt.doh.sb/dns-query // Youtube Video
+*.gvt?.com = server:https://jp-nrt.doh.sb/dns-query // Google Video Thumbnails
