@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,makeshop.jp
 DOMAIN-SUFFIX,dwango-ticket.jp
 DOMAIN-SUFFIX,animate-onlineshop.jp
 DOMAIN-SUFFIX,tc-animate.techorus-cdn.com
+DOMAIN-SUFFIX,tenso.com
 
 ### skeb
 DOMAIN-KEYWORD,skeb
@@ -69,4 +70,3 @@ DOMAIN-SUFFIX,sanrio.co.jp
 DOMAIN-SUFFIX,ec-project.jp
 DOMAIN-SUFFIX,chugai-contents.jp
 DOMAIN-SUFFIX,chugaionline.xyz
-DOMAIN-KEYWORD,bluearchive
