@@ -1,5 +1,0 @@
-#!name=Disable YouTube UDP
-#!desc=Disable YouTube 443 UDP / QUIC
-
-[Rule]
-AND,((PROTOCOL,UDP),(DOMAIN-SUFFIX,googlevideo.com)),REJECT-NO-DROP
