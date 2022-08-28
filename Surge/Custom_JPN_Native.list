@@ -1,7 +1,7 @@
 # > JPN_Only
 ### 需家宽IP的锁区流媒体
-DOMAIN-KEYWORD,asahi
-DOMAIN-KEYWORD,NHK
+# DOMAIN-KEYWORD,asahi
+# DOMAIN-KEYWORD,NHK
 
 ### 音乐商店
 DOMAIN-SUFFIX,mora.jp
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,ototoy.jp
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-KEYWORD,melonbooks
+DOMAIN-SUFFIX,melonbooks.co.jp
 DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,gamers.co.jp
 DOMAIN-SUFFIX,animate-onlineshop.jp
@@ -26,13 +26,13 @@ DOMAIN-SUFFIX,bushiroad-store.com
 DOMAIN-SUFFIX,bushiroad.com
 
 ### Hololive & Nijisanji
-DOMAIN-KEYWORD,hololivepro
+# DOMAIN-KEYWORD,hololivepro
 DOMAIN-SUFFIX,nijisanji.jp
 DOMAIN-SUFFIX,anycolorid.com
 
 ### Capcom
 DOMAIN-SUFFIX,capcom-netcatcher.com
-IP-CIDR,210.168.181.48/29
+IP-CIDR,210.168.181.48/29,no-resolve
 
 ### 其他商店
 DOMAIN-SUFFIX,fantia.jp
