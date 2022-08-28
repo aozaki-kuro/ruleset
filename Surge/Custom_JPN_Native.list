@@ -45,8 +45,7 @@ DOMAIN-SUFFIX,tc-animate.techorus-cdn.com
 DOMAIN-SUFFIX,tenso.com
 
 ### skeb
-DOMAIN-KEYWORD,skeb
-DOMAIN-SUFFIX,skeb.jp
+# DOMAIN-KEYWORD,skeb
 DOMAIN-SUFFIX,skeb.jp
 DOMAIN-SUFFIX,skeb-avatar.imgix.net
 DOMAIN-SUFFIX,skeb.imgix.net
