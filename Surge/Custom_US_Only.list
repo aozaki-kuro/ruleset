@@ -2,7 +2,6 @@
 ### 强制指定节点
 DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,nih.gov
-DOMAIN-KEYWORD,pubmed
 DOMAIN-SUFFIX,jacc.org
 DOMAIN-SUFFIX,nejm.org
 DOMAIN-SUFFIX,ahajournals.org
