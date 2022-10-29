@@ -5,12 +5,12 @@
 10.0.0.144
 
 # VM
-## Ubuntu
-10.0.0.14
-## HomeAssistant
-10.0.0.25
 ## Openwrt
-10.0.0.199
+10.0.2.1
+## Ubuntu
+10.0.2.2
+## HomeAssistant
+10.0.2.3
 
 # X1 (RDP for Arknights)
-10.0.0.109
+10.0.1.8
