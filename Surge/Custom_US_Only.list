@@ -14,6 +14,6 @@ DOMAIN-SUFFIX,backblazeb2.com
 DOMAIN-SUFFIX,kemono.party
 
 ### PayGo
-#DOMAIN-SUFFIX,3gppnetwork.org
-#IP-CIDR,208.54.0.0/17
-#IP-CIDR,208.54.128.0/19
+DOMAIN-SUFFIX,3gppnetwork.org
+IP-CIDR,208.54.0.0/17
+IP-CIDR,208.54.128.0/19
