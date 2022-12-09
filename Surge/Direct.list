@@ -17,5 +17,3 @@ DOMAIN-KEYWORD,torrent
 DOMAIN-SUFFIX,ntp.aliyun.com
 DOMAIN-SUFFIX,asia.pool.ntp.org
 DOMAIN-SUFFIX,time.asia.apple.com
-### Vercel China-CNAME
-DOMAIN-SUFFIX,blog.aozaki.cc
