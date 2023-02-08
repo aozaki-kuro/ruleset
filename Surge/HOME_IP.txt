@@ -11,6 +11,8 @@
 10.0.2.2
 ## HomeAssistant
 10.0.2.3
+## Ubuntu-DL
+10.0.2.4
 
 # X1 (RDP for Arknights)
 10.0.1.8
