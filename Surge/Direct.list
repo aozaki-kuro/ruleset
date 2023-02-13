@@ -1,19 +1,22 @@
 # > Force_Direct
 ### 强制直连
 DOMAIN-SUFFIX,uptodate.com
-DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,blueair.io
+
 ### 时间服务
+DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,time.asia.apple.com
+DOMAIN-SUFFIX,ntp.aliyun.com
+DOMAIN-SUFFIX,asia.pool.ntp.org
+DOMAIN-SUFFIX,time.asia.apple.com
+
 ### 应用程序直连
 PROCESS-NAME,Resilio Sync
 PROCESS-NAME,syncthing
 PROCESS-NAME,Syncthing
+
 ### BT
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,torrent
-### NTP
-DOMAIN-SUFFIX,ntp.aliyun.com
-DOMAIN-SUFFIX,asia.pool.ntp.org
-DOMAIN-SUFFIX,time.asia.apple.com
