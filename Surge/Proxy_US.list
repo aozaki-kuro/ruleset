@@ -1,10 +1,6 @@
 # > US_Only
 ### 强制指定节点
 DOMAIN-SUFFIX,yande.re
-DOMAIN-SUFFIX,nih.gov
-DOMAIN-SUFFIX,jacc.org
-DOMAIN-SUFFIX,nejm.org
-DOMAIN-SUFFIX,ahajournals.org
 
 ### 服务器与存储相关分流
 DOMAIN-SUFFIX,backblaze.com
