@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,skeb.imgix.net
 DOMAIN-SUFFIX,radiko.jp
 DOMAIN-SUFFIX,smartstream.ne.jp
 
+## OpenAI / ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat-ai.logcg.com
+
 ### Other
 DOMAIN-SUFFIX,okx.com
-DOMAIN-SUFFIX,openai.com
