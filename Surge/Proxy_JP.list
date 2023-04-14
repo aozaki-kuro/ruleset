@@ -4,11 +4,11 @@
 # DOMAIN-KEYWORD,NHK
 
 ### Pixiv
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,fanbox.cc
-DOMAIN-SUFFIX,booth.pm
-DOMAIN-SUFFIX,pixivsketch.net
+# DOMAIN-SUFFIX,pixiv.net
+# DOMAIN-SUFFIX,pximg.net
+# DOMAIN-SUFFIX,fanbox.cc
+# DOMAIN-SUFFIX,booth.pm
+# DOMAIN-SUFFIX,pixivsketch.net
 
 ### 音乐商店
 DOMAIN-SUFFIX,mora.jp
@@ -29,11 +29,11 @@ DOMAIN-SUFFIX,items-store.jp
 DOMAIN-SUFFIX,l-tike.com
 
 ### 其他商店
-DOMAIN-SUFFIX,fantia.jp
+# DOMAIN-SUFFIX,fantia.jp
 DOMAIN-SUFFIX,dwango-ticket.jp
 DOMAIN-SUFFIX,animate-onlineshop.jp
 DOMAIN-SUFFIX,tc-animate.techorus-cdn.com
-DOMAIN-SUFFIX,tenso.com
+# DOMAIN-SUFFIX,tenso.com
 
 ### skeb
 # DOMAIN-KEYWORD,skeb
