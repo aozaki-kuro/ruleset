@@ -3,13 +3,6 @@
 # DOMAIN-KEYWORD,asahi
 # DOMAIN-KEYWORD,NHK
 
-### Pixiv
-# DOMAIN-SUFFIX,pixiv.net
-# DOMAIN-SUFFIX,pximg.net
-# DOMAIN-SUFFIX,fanbox.cc
-# DOMAIN-SUFFIX,booth.pm
-# DOMAIN-SUFFIX,pixivsketch.net
-
 ### 音乐商店
 DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,ototoy.jp
@@ -29,14 +22,11 @@ DOMAIN-SUFFIX,items-store.jp
 DOMAIN-SUFFIX,l-tike.com
 
 ### 其他商店
-# DOMAIN-SUFFIX,fantia.jp
 DOMAIN-SUFFIX,dwango-ticket.jp
 DOMAIN-SUFFIX,animate-onlineshop.jp
 DOMAIN-SUFFIX,tc-animate.techorus-cdn.com
-# DOMAIN-SUFFIX,tenso.com
 
 ### skeb
-# DOMAIN-KEYWORD,skeb
 DOMAIN-SUFFIX,skeb.jp
 DOMAIN-SUFFIX,skeb-avatar.imgix.net
 DOMAIN-SUFFIX,skeb.imgix.net
@@ -46,7 +36,7 @@ DOMAIN-SUFFIX,radiko.jp
 DOMAIN-SUFFIX,smartstream.ne.jp
 
 ## OpenAI / ChatGPT
-DOMAIN-SUFFIX,openai.com
+# DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chat-ai.logcg.com
 
 ### Other
