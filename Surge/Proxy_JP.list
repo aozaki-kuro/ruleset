@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,melonbooks.co.jp
-DOMAIN-SUFFIX,booth.pm
+# DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,gamers.co.jp
 DOMAIN-SUFFIX,animate-onlineshop.jp
 DOMAIN-SUFFIX,tower.jp
