@@ -1,7 +1,4 @@
 # > JPN_Only
-### 需家宽IP的锁区流媒体
-# DOMAIN-KEYWORD,asahi
-# DOMAIN-KEYWORD,NHK
 
 ### Pixiv
 DOMAIN-SUFFIX,pixiv.net
@@ -31,6 +28,8 @@ DOMAIN-SUFFIX,l-tike.com
 DOMAIN-SUFFIX,dwango-ticket.jp
 DOMAIN-SUFFIX,animate-onlineshop.jp
 DOMAIN-SUFFIX,tc-animate.techorus-cdn.com
+DOMAIN-SUFFIX,parco.jp
+DOMAIN-SUFFIX,pie.co.jp
 
 ### skeb
 DOMAIN-SUFFIX,skeb.jp
