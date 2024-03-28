@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,pie.co.jp
 # DOMAIN-SUFFIX,skeb-avatar.imgix.net
 # DOMAIN-SUFFIX,skeb.imgix.net
 
+### zan-live
+DOMAIN-SUFFIX,zan-live.com
+
 ## Radiko
 DOMAIN-SUFFIX,radiko.jp
 DOMAIN-SUFFIX,smartstream.ne.jp
