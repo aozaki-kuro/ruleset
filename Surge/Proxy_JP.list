@@ -54,10 +54,15 @@ DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,okx.com
 
 ## Blog and Profile
-DOMAIN-SUFFIX,aozaki.cc,Japan
-DOMAIN-SUFFIX,crystallize.pages.dev,Japan
+DOMAIN-SUFFIX,aozaki.cc
+DOMAIN-SUFFIX,crystallize.pages.dev
 DOMAIN-SUFFIX,crystallize.cc,Japan
 DOMAIN-SUFFIX,docker.aozaki.cc
+
+## Server
+DOMAIN-SUFFIX,oracle-jp-01.aozaki.cc
+DOMAIN-SUFFIX,oracle-jp-02.aozaki.cc
+DOMAIN-SUFFIX,data4.aozaki.cc
 
 ## Blueair
 DOMAIN-SUFFIX, blueair.io, Japan
