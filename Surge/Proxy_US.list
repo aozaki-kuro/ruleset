@@ -1,16 +1,21 @@
 # > US_Only
 ### 强制指定节点
-DOMAIN-SUFFIX,yande.re
+DOMAIN-SUFFIX, yande.re
 
 ### 服务器与存储相关分流
-DOMAIN-SUFFIX,backblaze.com
-DOMAIN-SUFFIX,backblazeb2.com
+DOMAIN-SUFFIX, backblaze.com
+DOMAIN-SUFFIX, backblazeb2.com
 
 ### Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX, phncdn.com
+DOMAIN-SUFFIX, phprcdn.com
+DOMAIN-SUFFIX, pornhub.com
+DOMAIN-SUFFIX, pornhubpremium.com
 
 ### Server
-DOMAIN-SUFFIX,data2.aozaki.cc
+DOMAIN-SUFFIX, data2.aozaki.cc
+
+### Kemono
+DOMAIN-SUFFIX, kemono.party
+DOMAIN-SUFFIX, nekohouse.su
+DOMAIN-SUFFIX, coomer.party
