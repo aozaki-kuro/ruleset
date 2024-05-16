@@ -5,7 +5,8 @@ DOMAIN-SUFFIX,wowgirls.com
 DOMAIN-SUFFIX,hegre.com
 DOMAIN-SUFFIX,ultrafilms.com
 DOMAIN-SUFFIX,asmrconnecting.xyz
+DOMAIN-SUFFIX,gofile.io
 
 ## Alist
-DOMAIN-SUFFIX,drive.aozaki.cc,LowRate
-DOMAIN-SUFFIX,alist-proxy.aozaki.cc,LowRate
+DOMAIN-SUFFIX,drive.aozaki.cc
+DOMAIN-SUFFIX,alist-proxy.aozaki.cc
