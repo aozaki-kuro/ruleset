@@ -1,5 +1,6 @@
-# Router
+# Router, Switch and AC
 10.0.0.1
+10.0.3.0/24
 
 # DSM
 10.0.0.2
