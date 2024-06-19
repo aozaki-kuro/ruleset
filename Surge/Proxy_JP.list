@@ -57,3 +57,6 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,crystallize.cc
 DOMAIN-SUFFIX,docker.aozaki.cc
 DOMAIN-SUFFIX,insight.aozaki.cc
+
+## Adobe
+DOMAIN-SUFFIX,firefly-ps.adobe.io
