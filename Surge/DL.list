@@ -4,9 +4,11 @@ DOMAIN-SUFFIX,ccmdls.adobe.com
 DOMAIN-SUFFIX,wowgirls.com
 DOMAIN-SUFFIX,hegre.com
 DOMAIN-SUFFIX,ultrafilms.com
-DOMAIN-SUFFIX,asmrconnecting.xyz
 DOMAIN-SUFFIX,gofile.io
 DOMAIN-SUFFIX,stream.ne.jp
+
+## ASMR Connecting
+DOMAIN-SUFFIX,worker1asmrconnecting.xyz
 
 ## Alist
 DOMAIN-SUFFIX,drive.aozaki.cc
