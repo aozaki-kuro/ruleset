@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,stream.ne.jp
 
 ## ASMR Connecting
 DOMAIN-SUFFIX,worker1.asmrconnecting.xyz
+DOMAIN-SUFFIX,worker2.hiruma.xyz
 
 ## Alist
 DOMAIN-SUFFIX,drive.aozaki.cc
