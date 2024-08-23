@@ -1,72 +1,73 @@
 # > JPN_Only
 
 ### Pixiv
-DOMAIN-SUFFIX,pixiv.net
-DOMAIN-SUFFIX,pximg.net
-DOMAIN-SUFFIX,fanbox.cc
-DOMAIN-SUFFIX,booth.pm
-DOMAIN-SUFFIX,pixivsketch.net
+.pixiv.net
+.pximg.net
+.fanbox.cc
+.booth.pm
+.pixivsketch.net
 
 ### 音乐商店
-DOMAIN-SUFFIX,mora.jp
-DOMAIN-SUFFIX,ototoy.jp
-DOMAIN-SUFFIX,dlsite.com
-DOMAIN-SUFFIX,rakuten.co.jp
-DOMAIN-SUFFIX,amazon.co.jp
-DOMAIN-SUFFIX,melonbooks.co.jp
-DOMAIN-SUFFIX,gamers.co.jp
-DOMAIN-SUFFIX,animate-onlineshop.jp
-DOMAIN-SUFFIX,tower.jp
-DOMAIN-SUFFIX,toranoana.jp
-DOMAIN-SUFFIX,hmv.co.jp
-DOMAIN-SUFFIX,items-store.jp
+.mora.jp
+.ototoy.jp
+.dlsite.com
+.rakuten.co.jp
+.amazon.co.jp
+.melonbooks.co.jp
+.gamers.co.jp
+.animate-onlineshop.jp
+.tower.jp
+.toranoana.jp
+.hmv.co.jp
+.items-store.jp
 
 ### L-tike
-DOMAIN-SUFFIX,l-tike.com
+.l-tike.com
 
 ### 其他商店
-DOMAIN-SUFFIX,dwango-ticket.jp
-DOMAIN-SUFFIX,animate-onlineshop.jp
-DOMAIN-SUFFIX,tc-animate.techorus-cdn.com
-DOMAIN-SUFFIX,parco.jp
-DOMAIN-SUFFIX,pie.co.jp
+.dwango-ticket.jp
+.animate-onlineshop.jp
+.tc-animate.techorus-cdn.com
+.parco.jp
+.pie.co.jp
 
 ### skeb
-DOMAIN-SUFFIX,skeb.jp
-DOMAIN-SUFFIX,skeb-avatar.imgix.net
-DOMAIN-SUFFIX,skeb.imgix.net
+.skeb.jp
+.skeb-avatar.imgix.net
+.skeb.imgix.net
 
 ### zan-live
-DOMAIN-SUFFIX,zan-live.com
+.zan-live.com
 
 ## Radiko
-DOMAIN-SUFFIX,radiko.jp
-DOMAIN-SUFFIX,smartstream.ne.jp
+.radiko.jp
+.smartstream.ne.jp
 
 ## OpenAI / ChatGPT
-# DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat-ai.logcg.com
+# .openai.com
+.chat-ai.logcg.com
+.nextweb.fun
 
 ## Fastmail
-DOMAIN-SUFFIX,fastmail.com
+.fastmail.com
 
 ### Other
-DOMAIN-SUFFIX,okx.com
+.okx.com
 
 ## Blog and Profile
-DOMAIN-SUFFIX,crystallize.cc
-DOMAIN-SUFFIX,docker.aozaki.cc
-DOMAIN-SUFFIX,insight.aozaki.cc
+.crystallize.cc
+.docker.aozaki.cc
+.insight.aozaki.cc
 
 ## Adobe
-DOMAIN-SUFFIX,firefly-ps.adobe.io
+.firefly-ps.adobe.io
 
 ## Fanclub
-DOMAIN-SUFFIX,canan8181.com
-DOMAIN-SUFFIX,rnqq.jp
-DOMAIN-SUFFIX,kemomimirefle.net
-DOMAIN-SUFFIX,nicochannel.jp
-DOMAIN-SUFFIX,yamingfc.net
-DOMAIN-SUFFIX,rizuna-official.com
-DOMAIN-SUFFIX,uise-official.com
-DOMAIN-SUFFIX,tenshi-nano.com
+.canan8181.com
+.rnqq.jp
+.kemomimirefle.net
+.nicochannel.jp
+.yamingfc.net
+.rizuna-official.com
+.uise-official.com
+.tenshi-nano.com
