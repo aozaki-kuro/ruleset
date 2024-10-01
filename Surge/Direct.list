@@ -20,3 +20,6 @@ PROCESS-NAME,Syncthing
 ### BT
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,torrent
+
+### Plex
+DOMAIN-SUFFIX,v4.plex.tv
