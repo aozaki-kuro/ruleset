@@ -15,3 +15,8 @@ DOMAIN-SUFFIX,worker2.hiruma.xyz
 ## Alist
 DOMAIN-SUFFIX,drive.aozaki.cc
 DOMAIN-SUFFIX,alist-proxy.aozaki.cc
+
+## Plex
+DOMAIN-SUFFIX,pubsub.plex.tv
+DOMAIN-SUFFIX,metadata-static.plex.tv
+DOMAIN-SUFFIX,metadata.provider.plex.tv
