@@ -1,22 +1,22 @@
 # > Heavy Downloads
 ## 下载大流量
-DOMAIN-SUFFIX,ccmdls.adobe.com
-DOMAIN-SUFFIX,dd-video.wowgirls.com
-DOMAIN-SUFFIX,hegre.com
+.ccmdls.adobe.com
+.dd-video.wowgirls.com
+.hegre.com
 # DOMAIN-SUFFIX,ultrafilms.com
-DOMAIN-SUFFIX,gofile.io
-DOMAIN-SUFFIX,stream.ne.jp
-DOMAIN-SUFFIX,bunkr.ru
+.gofile.io
+.stream.ne.jp
+.bunkr.ru
 
 ## ASMR Connecting
-DOMAIN-SUFFIX,worker1.asmrconnecting.xyz
-DOMAIN-SUFFIX,worker2.hiruma.xyz
+.worker1.asmrconnecting.xyz
+.worker2.hiruma.xyz
 
 ## Alist
-DOMAIN-SUFFIX,drive.aozaki.cc
-DOMAIN-SUFFIX,alist-proxy.aozaki.cc
+.drive.aozaki.cc
+.alist-proxy.aozaki.cc
 
 ## Plex
-DOMAIN-SUFFIX,pubsub.plex.tv
-DOMAIN-SUFFIX,metadata-static.plex.tv
-DOMAIN-SUFFIX,metadata.provider.plex.tv
+.pubsub.plex.tv
+.metadata-static.plex.tv
+.metadata.provider.plex.tv
