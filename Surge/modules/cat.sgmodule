@@ -1,0 +1,6 @@
+[task_local]
+0 0 1 1 * https://gist.githubusercontent.com/Sliverkiss/f347b633ecd8e1a1b98121338761e6db/raw/revencat.js, tag=Revencat swtich to debugger, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AppleNews.png, enabled=true
+[rewrite_local]
+^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$) url script-echo-response https://gist.githubusercontent.com/Sliverkiss/f347b633ecd8e1a1b98121338761e6db/raw/revencat.js
+[mitm]
+hostname=api.revenuecat.com
