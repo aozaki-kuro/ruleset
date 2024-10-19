@@ -20,3 +20,6 @@
 .pubsub.plex.tv
 .metadata-static.plex.tv
 .metadata.provider.plex.tv
+
+## hugging face
+.hf.co
