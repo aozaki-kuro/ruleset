@@ -25,5 +25,5 @@
 .hf.co
 
 ## Qobuz CDN
-qobuz-qobuz-prod.web.arc-cdn.net
-streaming-qobuz-sec.akamaized.net
+.qobuz-qobuz-prod.web.arc-cdn.net
+.streaming-qobuz-sec.akamaized.net
