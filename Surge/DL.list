@@ -24,3 +24,6 @@
 
 ## hugging face
 .hf.co
+
+## Qobuz CDN
+.streaming-qobuz-std.akamaized.net
