@@ -24,5 +24,6 @@ DOMAIN-KEYWORD,torrent
 ### Plex
 DOMAIN-SUFFIX,v4.plex.tv
 
-### Nezha data endpoint
-DOMAIN-SUFFIX,data.aozaki.eu.org
+### Script Hub
+DOMAIN-SUFFIX,script-hub.aozaki.cc
+DOMAIN-SUFFIX,script-hub-beta.aozaki.cc
