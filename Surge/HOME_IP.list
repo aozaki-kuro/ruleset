@@ -14,14 +14,12 @@
 10.0.1.100
 
 # VM
-## Fedora
+## Almalinux Proxy
 10.0.2.2
+## Almalinux Direct
+10.0.1.16
 ## HomeAssistant
 10.0.2.5
-
-# NUC
-10.0.1.11
-10.0.1.12
 
 # Mac mini
 10.0.1.1
