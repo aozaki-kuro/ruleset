@@ -28,3 +28,7 @@ DOMAIN-SUFFIX,v4.plex.tv
 # DOMAIN-SUFFIX,script-hub.aozaki.cc
 # DOMAIN-SUFFIX,script-hub-beta.aozaki.cc
 # DOMAIN-SUFFIX,sub.aozaki.cc
+
+### Uptodate
+DOMAIN-SUFFIX,uptodate.com
+DOMAIN-SUFFIX,uptodate.cn
