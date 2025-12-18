@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,synology.cn
 ### Flowercloud
 DOMAIN-SUFFIX,api-flowercloud.com
 DOMAIN-SUFFIX,xmancdn.net
+DOMAIN-SUFFIX,dler.cloud
 
 ### 时间服务
 DOMAIN-SUFFIX,time.is
