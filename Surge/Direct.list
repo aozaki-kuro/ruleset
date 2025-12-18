@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,uptodate.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,api-flowercloud.com
 
 ### 时间服务
 DOMAIN-SUFFIX,time.is
