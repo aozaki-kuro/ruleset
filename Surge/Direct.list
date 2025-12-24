@@ -4,11 +4,12 @@ DOMAIN-SUFFIX,uptodate.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,synology.cn
 
-### Flowercloud
+### 订阅
 DOMAIN-SUFFIX,api-flowercloud.com
 DOMAIN-SUFFIX,api-huacloud.net
 DOMAIN-SUFFIX,xmancdn.net
 DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,siamparagon.org
 
 ### 时间服务
 DOMAIN-SUFFIX,time.is
