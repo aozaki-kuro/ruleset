@@ -14,9 +14,7 @@
 10.0.1.100
 
 # VM
-## Almalinux Proxy
-10.0.2.2
-## Almalinux Direct
+## Almalinux
 10.0.1.16
 ## HomeAssistant
 10.0.2.5
