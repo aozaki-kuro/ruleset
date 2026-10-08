@@ -20,9 +20,7 @@ DOMAIN-SUFFIX,asia.pool.ntp.org
 DOMAIN-SUFFIX,time.asia.apple.com
 
 ### 应用程序直连
-PROCESS-NAME,Resilio Sync
-PROCESS-NAME,syncthing
-PROCESS-NAME,Syncthing
+AND,((OR,((PROCESS-NAME,Resilio Sync),(PROCESS-NAME,syncthing),(PROCESS-NAME,Syncthing))),(NOT,((DOMAIN,raw.githubusercontent.com))))
 
 ### BT
 DOMAIN-KEYWORD,tracker
