@@ -1,0 +1,58 @@
+# Claude Priority
+
+# 时区检测
+DEST-PORT,123
+
+# 支付
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,stripe
+
+# Desktop
+PROCESS-NAME,/Users/cat/.local/share/claude/*
+PROCESS-NAME,/Users/cat/Applications/Claude Code URL
+PROCESS-NAME,/Users/cat/Library/Application Support/Claude/*
+PROCESS-NAME,/Applications/Claude.app/
+
+# Claude / Anthropic 核心域名
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# CDN 和静态资源
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,anthropic.com.cdn.cloudflare.net
+
+# 认证 / 内容
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic-com.ghost.io
+
+# 监控和遥测
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
+DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,sift
+
+# 客服 / 第三方 widget
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN,cdn.usefathom.com
+
+# IP 段 / ASN 兜底
+IP-CIDR,160.79.104.0/21,no-resolve
+IP-CIDR6,2607:6bc0::/32,no-resolve
+IP-ASN,399358,no-resolve
+IP-ASN,14201,no-resolve
+
+# 精确上报域名
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,o1158394.ingest.us.sentry.io
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN,a-cdn.anthropic.com
+DOMAIN,a-api.anthropic.com
+DOMAIN,api3.siftscience.com
